@@ -31,3 +31,6 @@ header { background-color: var(--cor-do-titulo)}
 body{
     text-align: center;
 }
+ .principal {
+    display:flex;
+ }
