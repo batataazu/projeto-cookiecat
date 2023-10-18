@@ -34,3 +34,26 @@ body{
  .principal {
     display:flex;
  }
+ .coluna1{
+  width: 30%;
+ }
+
+ .coluna2{
+    width: 40%;
+ }
+
+ .coluna3{
+    width: 30%;
+ }
+ .ul{
+    background: #a77b67;
+    padding: 20px;;
+    margin: 5px;
+    height: 30px;
+ }
+
+ .title{
+    background-color: darksalmon;
+    text-align: start;
+
+ }
