@@ -1,2 +1,2 @@
-# projeto-cookiecat
+# projeto-cookiepetit
 projeto de empreendedorismo
